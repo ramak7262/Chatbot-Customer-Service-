@@ -24,9 +24,5 @@ The chatbot is trained on an `intents.json` dataset and can understand customer 
 ### 1️⃣ Open on Google Colab  
 Click the badge below to run directly in Colab:  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jN-FhgeZ4oAnRmCJVlJgx_6rBdg_d4PU#scrollTo=nOw7reKZ33Id)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ramak7262/Chatbot-Customer-Service/blob/main/notebooks/chatbot_training.ipynb)
 
-### 2️⃣ Clone Repository (if using locally)
-```bash
-git clone https://github.com/your-username/Chatbot-Customer-Service.git
-cd Chatbot-Customer-Service
